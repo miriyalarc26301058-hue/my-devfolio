@@ -62,7 +62,6 @@ cd devfolio
 
 3. Open `index.html` in a web browser.
 
-No additional dependencies or installation are required.
 
 ## Live Website
 
